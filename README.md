@@ -1,4 +1,6 @@
-# Passo 1
+# Reconhecimento Facial e transformações de imagens em Dados no Azure ML
+
+## Passo 1
 
 Entre com seu email Microsoft no portal Azure
 
@@ -6,7 +8,7 @@ Logo na pagina inicial do portal, procure Azure AI Services
 
 ![image](https://github.com/jotapesb/face-ML/assets/147784947/7bf81385-e260-412e-808c-d3e3d07858f3)
 
-# Passo 2
+## Passo 2
 
 Vá em [+create] 
 
@@ -20,7 +22,7 @@ Após tudo preenchido clique em [Examinar + criar]
 
 ![image](https://github.com/jotapesb/face-ML/assets/147784947/e0c860b0-f043-4b68-82f4-5c5fe5ed8018)
 
-# Passo 3
+## Passo 3
 
 Depois de tudo criado, entre direto no site portal.vision.cognitive.azure.com
 
